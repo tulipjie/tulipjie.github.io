@@ -1,0 +1,27 @@
+
+.header{
+    height: 400px;
+    background-color: #1b6d85;
+}
+.header_top{
+    height:150px;
+}
+.nav-top{
+    height: 51px;
+}
+img{
+	vertical-align:middle;
+    margin-top:50px ;
+}
+.download{
+    width:150px;
+    height:150px;
+    margin-top: 30px;
+}
+.catalogue .container .col-md-3{
+    float: left;
+}
+h1{
+    font-family: "Lane",sans-serif;
+    font-weight: normal;
+}
